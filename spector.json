@@ -1,0 +1,18 @@
+﻿{
+	"wallpapers": [
+		{
+			"name": "Falwln",
+			"author": "RM designs",
+			"url": "https://user-images.githubusercontent.com/31027480/29302743-59cbf210-81a4-11e7-9f5d-a6536e6f77f2.jpg",
+			"dimensions": "1920 x 1200",
+			"copyright": "Copyright ¸ 2017 RM designs. All rights reserved."
+		},
+		{
+			"name": "Tulips",
+			"author": "Zalman Lent",
+			"url": "https://user-images.githubusercontent.com/31027480/29302809-ec58377e-81a4-11e7-9eb0-8bc496e118c3.jpg",
+			"dimensions": "1280 x 800",
+			"copyright": "Copyright ¸ 2016 Zalman Lent. All rights reserved."
+		}
+	]
+}
