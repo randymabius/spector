@@ -1,40 +1,38 @@
-﻿{
-  "Wallpapers": [
+[
     {
+      "name": "Charcoal",
       "author": "Unknown",
       "url": "https://images2.imgbox.com/84/8e/9K8ayJ8p_o.jpg",
-      "name": "Charcoal",
       "thumbUrl": "https://images2.imgbox.com/a1/c2/sQarOvWl_o.jpg"
     },
     {
+      "name": "Flat lay of cup of coffee with spoon",
       "author": "freepik",
       "url": "https://images2.imgbox.com/87/db/BeOlu67t_o.jpg",
-      "name": "Flat lay of cup of coffee with spoon",
       "thumbUrl": "https://images2.imgbox.com/11/12/LKZKsYMz_o.jpg"
     },
     {
+      "name": "Restaurant mural wallpaper",
       "author": "freepik",
       "url": "https://images2.imgbox.com/d5/92/xX5uJtiI_o.jpg",
-      "name": "Restaurant mural wallpaper",
       "thumbUrl": "https://images2.imgbox.com/61/44/diOWKxTL_o.jpg"
     },
     {
+      "name": "Restaurant mural wallpaper",
       "author": "freepik",
       "url": "https://images2.imgbox.com/95/87/T5serCmv_o.jpg",
-      "name": "Restaurant mural wallpaper",
       "thumbUrl": "https://images2.imgbox.com/bd/ec/hePtvnsp_o.jpg"
     },
     {
+      "name": "Realistic coffee time background with coffee cup",
       "author": "coolvector",
       "url": "https://images2.imgbox.com/af/14/7rVGtVWL_o.jpg",
-      "name": "Realistic coffee time background with coffee cup",
       "thumbUrl": "https://images2.imgbox.com/c0/c5/rEUFG6H7_o.jpg"
     },
     {
+      "name": "Realistic coffee background",
       "author": "coolvector",
       "url": "https://images2.imgbox.com/39/9b/dYMGWCrT_o.jpg",
-      "name": "Realistic coffee background",
       "thumbUrl": "https://images2.imgbox.com/51/f5/ps8ZAwFT_o.jpg"
     }
-  ]
-}
+]
